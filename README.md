@@ -1,3 +1,14 @@
+fork from isagalaev`s project, used for my markdown editor, code highlight...
+
+---------------------
+https://maxiang.io/#
+如何自定义代码高亮样式？
+
+打开设置，切换到样式标签；
+将代码高亮设置为无；
+从 highlight.js GitHub 源码 中选择合适的 CSS，打开后将内容复制到自定义渲染CSS中。可以先查看 样式示例，选择喜欢的样式。
+------------
+
 # Highlight.js
 
 [![Build Status](https://travis-ci.org/isagalaev/highlight.js.svg?branch=master)](https://travis-ci.org/isagalaev/highlight.js)
