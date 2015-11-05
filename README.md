@@ -1,12 +1,12 @@
-fork from isagalaev`s project, used for my markdown editor, code highlight...
+**fork from isagalaev`s project, used for my markdown editor, code highlight...**
 
 ---------------------
-https://maxiang.io/#
-如何自定义代码高亮样式？
+https://maxiang.io/#<br>
+###如何自定义代码高亮样式？<br>
+打开设置，切换到样式标签；<br>
+将代码高亮设置为无；<br>
+从 highlight.js  [GitHub 源码](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fgithub.com%2Fisagalaev%2Fhighlight.js%2Ftree%2Fmaster%2Fsrc%2Fstyles) 中选择合适的 CSS，打开后将内容复制到自定义渲染CSS中。可以先查看 [样式示例](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fgithub.com%2Fisagalaev%2Fhighlight.js%2Ftree%2Fmaster%2Fsrc%2Fstyles)，选择喜欢的样式。
 
-打开设置，切换到样式标签；
-将代码高亮设置为无；
-从 highlight.js GitHub 源码 中选择合适的 CSS，打开后将内容复制到自定义渲染CSS中。可以先查看 样式示例，选择喜欢的样式。
 ------------
 
 # Highlight.js
